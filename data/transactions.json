@@ -1,0 +1,96 @@
+{
+    "Bankrekening": [
+        {
+            "from/to": "Roan",
+            "amount": 63,
+            "logo": "fa-solid fa-house"
+        },
+        {
+            "from/to": "Dina",
+            "amount": -79,
+            "logo": "fa-solid fa-house"
+        },
+        {
+            "from/to": "Jan",
+            "amount": 321,
+            "logo": "fa-solid fa-house"
+        },
+        {
+            "from/to": "Berry",
+            "amount": 1076,
+            "logo": "fa-solid fa-house"
+        },
+        {
+            "from/to": "Igor",
+            "amount": -45,
+            "logo": "fa-solid fa-house"
+        },
+        {
+            "from/to": "Kiet",
+            "amount": -20,
+            "logo": "fa-solid fa-house"
+        },
+        {
+            "from/to": "Rama",
+            "amount": 235,
+            "logo": "fa-solid fa-house"
+        },
+        {
+            "from/to": "Bert",
+            "amount": 788,
+            "logo": "fa-solid fa-house"
+        },
+        {
+            "from/to": "Phoenix",
+            "amount": -124,
+            "logo": "fa-solid fa-house"
+        },
+        {
+            "from/to": "Tim",
+            "amount": 90,
+            "logo": "fa-solid fa-house"
+        },
+        {
+            "from/to": "Kees",
+            "amount": -32,
+            "logo": "fa-solid fa-house"
+        },
+        {
+            "from/to": "Luna",
+            "amount": -94,
+            "logo": "fa-solid fa-house"
+        }
+    ],
+    "ZZP-Rekening": [
+        {
+            "from/to": "Google",
+            "amount": 8621,
+            "logo": "fa-solid fa-coins"
+        },
+        {
+            "from/to": "Amazon",
+            "amount": 4587,
+            "logo": "fa-solid fa-coins"
+        },
+        {
+            "from/to": "Tesla",
+            "amount": -1970,
+            "logo": "fa-solid fa-coins"
+        },
+        {
+            "from/to": "Nike",
+            "amount": 543,
+            "logo": "fa-solid fa-coins"
+        },
+        {
+            "from/to": "Meta",
+            "amount": -743,
+            "logo": "fa-solid fa-coins"
+        },
+        {
+            "from/to": "Apple",
+            "amount": -2843,
+            "logo": "fa-solid fa-coins"
+        }
+    ]
+}
