@@ -10,18 +10,23 @@ Bij dit project heb ik een bank app nagebouwd, waarbij je tussen verschillende b
 4. Werken met classes en constructors.
 5. Hoe ik de aangemaakte HTML elementen kan renderen via JavaScript.
 6. Hoe je kan switchen tussen de rekeningen.
-7. Hoe ik blurren het saldo kan blurren.
+7. Hoe ik het saldo kan blurren.
 
 ## Screenshots
 
 ### Desktop Screenshot
-![Het gerealiseerde eindproduct op desktop.]()
+![Het gerealiseerde eindproduct op desktop.](https://github.com/roan-eb/Banky/blob/main/img/Screenshot%202023-06-02%20at%209.58.19%20PM.png)
 
-![Het gerealiseerde eindproduct op desktop.]()
+![Het gerealiseerde eindproduct op desktop.](https://github.com/roan-eb/Banky/blob/main/img/Screenshot%202023-06-02%20at%209.58.41%20PM.png)
 
+![Het gerealiseerde eindproduct op desktop.](https://github.com/roan-eb/Banky/blob/main/img/Screenshot%202023-06-02%20at%2010.02.27%20PM.png)
 
 ### Mobile Screenshot
-![Het gerealiseerde eindproduct op mobile.]()
+![Het gerealiseerde eindproduct op mobile.](https://github.com/roan-eb/Banky/blob/main/img/Screenshot%202023-06-02%20at%2010.01.17%20PM.png)
+
+![Het gerealiseerde eindproduct op mobile.](https://github.com/roan-eb/Banky/blob/main/img/Screenshot%202023-06-02%20at%2010.01.37%20PM.png)
+
+![Het gerealiseerde eindproduct op mobile.](https://github.com/roan-eb/Banky/blob/main/img/Screenshot%202023-06-02%20at%2010.02.01%20PM.png)
 
 ## Live demo
 -
